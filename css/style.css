@@ -34,9 +34,9 @@ a {
     display: inline-block;
     font-size: 48px;
 }
-
+/*darker colour for seo text to highlight the business purpose hidden in the company name"*/
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #afb1ae;
 }
 /*Nav bar styling*/
 .header nav {
