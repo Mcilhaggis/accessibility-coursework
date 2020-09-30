@@ -1,4 +1,4 @@
-//*Top level styling *//
+/*Top level general styling for page elements*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -22,8 +22,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
-//*Header bar styling*//
+/*Header styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -31,18 +30,15 @@ a {
     color: #ffffff;
 }
 
-//*Header bar styling*//
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-//*Different colour applied to "seo" text in brand name to stand out*//
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-//*Navigation bar styling*//
+/*Nav bar styling*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -56,8 +52,7 @@ a {
     display: inline-block;
     margin-left: 25px;
 }
-
-//*background hero image*//
+/*Styling of background hero image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -66,8 +61,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-
-//*Floats applied to main body article elements to alternate sides that image floats on*//
+/*Floats applied to main body article elements to alternate sides that image floats on*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,6 +71,7 @@ a {
     float: right;
     margin-left: 25px;
 }
+/*Styling for content and img of main article section of body*/
 
 .content {
     width: 75%;
@@ -84,7 +79,25 @@ a {
     margin-left: 20px;
 }
 
-//*sidebar styling*//
+.main-articles {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.main-articles img {
+    max-height: 200px;
+}
+
+.main-articles h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*Styling for side bar items */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,27 +120,7 @@ a {
     max-width: 150px;
 }
 
-//*main body styling for article section*//
-.main-articles {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.main-articles img {
-    max-height: 200px;
-}
-
-
-.main-articles h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-//*Footer styling*//
+/* footer styling*/
 .footer {
     padding: 30px;
     clear: both;
