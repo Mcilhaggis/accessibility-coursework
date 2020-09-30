@@ -8,9 +8,9 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*font size edited from original to match the goal image more accurately*/
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 h3 {
@@ -94,7 +94,7 @@ a {
 
 .main-articles h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 44px;
 }
 
 /*Styling for side bar items */
