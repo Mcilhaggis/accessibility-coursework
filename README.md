@@ -2,7 +2,7 @@
 
 
 ## Description (add screenshot)
- This project is an exercise in creating a website that is accessible for all. Utilisng HTML and CSS semantically to create a webpage experience that can be visited by anyone.
+ This project is an exercise in creating a website that is accessible for all. Utilisng HTML and CSS semantically to create a webpage experience that can be visited and used by anyone.
 
  Key take-aways from this project are:   
     * "alt" attribute text needs to be descriptive enough without being excessive.  
