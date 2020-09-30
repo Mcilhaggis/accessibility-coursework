@@ -10,7 +10,7 @@
     * Colour ratio is an important factor in selecting colourways for any element of a webpage.  
 
 Below is a screengrab of the entire webpage.  
-![Screenshot of webpage](images/full-webpage-screengrab.png)
+![Screenshot of webpage](https://github.com/Mcilhaggis/accessibility-coursework/blob/master/images/Full-webpage-screengrab.png)
 
 
 ## URL
