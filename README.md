@@ -41,6 +41,5 @@ Inspiration and guides used:
 This source code is available to all and the project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Badges
-![Lines of code](https://img.shields.io/tokei/lines/github/mcilhaggis/accessibility-coursework)
 ![GitHub](https://img.shields.io/github/license/mcilhaggis/accessibility-coursework)
 
