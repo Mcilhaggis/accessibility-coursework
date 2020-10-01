@@ -5,10 +5,10 @@
  This respository holds an exercise project in creating a website that is accessible for all. The aim of the project was to utlise HTML and CSS semantically to create a webpage experience that can be visited and used by anyone and optimise it for search engines.
 
  ###Features
-    - Has semantic HTML and CSS
-    - Meets accessiblity standards
-    - Accessible alt attributes for all image tags
-    - Fully functional features
+    - Has semantic HTML and CSS  
+    - Meets accessiblity standards  
+    - Accessible alt attributes for all image tags  
+    - Fully functional features  
     
 
  Key take-aways from this project are:   
@@ -41,5 +41,6 @@ Inspiration and guides used:
 This source code is available to all and the project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Badges
-https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs
-https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
+![Lines of code](https://img.shields.io/tokei/lines/github/mcilhaggis/accessibility-coursework) 
+![GitHub](https://img.shields.io/github/license/mcilhaggis/accessibility-coursework)
+
