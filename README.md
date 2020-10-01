@@ -4,7 +4,7 @@
 ## Description
  This respository holds an exercise project in creating a website that is accessible for all. The aim of the project was to utlise HTML and CSS semantically to create a webpage experience that can be visited and used by anyone and optimise it for search engines.
 
- ###Features
+ ### Features
     - Has semantic HTML and CSS  
     - Meets accessiblity standards  
     - Accessible alt attributes for all image tags  
