@@ -8,9 +8,20 @@
 body {
     background-color: #d9dcd6;
 }
-/*font size edited from original to match the goal image more accurately*/
+
+/*font size edited from original to match the intended outcome more accurately*/
 p {
     font-size: 18px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 44px;
 }
 
 h3 {
@@ -22,6 +33,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
 /*Header styling*/  
 .header {
     padding: 20px;
@@ -30,16 +42,13 @@ a {
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
 /*darker colour for seo text to highlight the business purpose hidden in the company name"*/
-.header h1 .seo {
+.seo {
     color: #afb1ae;
 }
+
 /*Nav bar styling*/
-.header nav {
+.nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -48,10 +57,11 @@ a {
     list-style-type: none;
 }
 
-.header nav ul li {
+.ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 /*Styling of background hero image*/
 .hero {
     height: 800px;
@@ -61,6 +71,7 @@ a {
     background-size: cover;
     background-position: center;
 }
+
 /*Floats applied to main body article elements to alternate sides that image floats on*/
 .float-left {
     float: left;
@@ -71,8 +82,8 @@ a {
     float: right;
     margin-left: 25px;
 }
-/*Styling for content and img of main article section of body*/
 
+/*Styling for content and img of main article section of body*/
 .content {
     width: 75%;
     display: inline-block;
@@ -92,10 +103,7 @@ a {
     max-height: 200px;
 }
 
-.main-articles h2 {
-    margin-bottom: 20px;
-    font-size: 44px;
-}
+
 
 /*Styling for side bar items */
 .benefits {
